@@ -1,2 +1,2 @@
 # gritpan.github.io
-我的博客
+welcome to my blog.
